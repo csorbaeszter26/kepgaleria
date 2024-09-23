@@ -1,9 +1,9 @@
 //kisképek megjelenítése:
 
-import { Kartya } from "./Kartya.js";
+import { Kartya } from "../modell/Kartya.js";
 
 
-export default class Jatektar{
+export default class Jatekter{
 
 
     #lista = []

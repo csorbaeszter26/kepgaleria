@@ -1,6 +1,6 @@
-import { Kartya } from "./Kartya.js";
-import { adatLISTA } from "./adat.js";
-import Jatektar from "./Jatekter.js";
+import { Kartya } from "./modell/Kartya.js";
+import { adatLISTA } from "./view/adat.js";
+import Jatekter from "./controller/Jatekter.js";
 
 const szuloElemN = $(".nagyKep")
 //const szuloElemK = $(".kisKepek")
